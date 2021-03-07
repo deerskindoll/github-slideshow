@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+teenage ninja mutant turtles
 Use the left arrow to go back!
